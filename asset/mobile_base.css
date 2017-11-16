@@ -23,15 +23,12 @@ a {
     display: inline-block;
     margin-top: 110px;
 }
-.init_block_item#img {
-    
-}
 .init_block_item#info {
     width: 220px;
     height: 100%;
 }
 .init_block_item#info .info_item#title{
-    font-family: "GothamBlack";
+    font-family: "GothamBlack san-serif";
     font-weight: 500;
     font-size: 24px;
     color: #394247;
@@ -43,7 +40,7 @@ a {
 .init_block_item#info .info_item .title {
     margin-top: 46px;
     margin-bottom: 10px;
-    font-family: "Gotham";
+    font-family: "Gotham san-serif";
     font-weight: Bold;
     font-size: 12px;
     color: #394247;
@@ -53,7 +50,7 @@ a {
     margin-top: 80px;
 }
 .init_block_item#info .info_item#contact .desc_contact{
-    font-family: "GothamLight";
+    font-family: "GothamLight san-serif";
     font-weight: 500;
     font-size: 12px;
     line-height: 16px;
@@ -97,14 +94,14 @@ a {
 .init_block_item#info .info_item#members .info .name {
     margin-top: 8px;
     text-align: center;
-    font-family: "GothamMedium";
+    font-family: "GothamMedium san-serif";
     font-style: italic;
     font-weight: 500;
     font-size: 12px;
 }
 .init_block_item#info .info_item#members .info .phone {
     margin-top: 8px;
-    font-family: "GothamLight";
+    font-family: "GothamLight san-serif";
     font-weight: 500;
     font-size: 9px;
     line-height: 15px;
